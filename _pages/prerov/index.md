@@ -7,4 +7,4 @@ permalink: /prerov
 
 # Přerov
 
-[Volební období 2018-2022](/prerov/volebni-obdobi-2018-2022)
+[Volební období 2018-2022](volebni-obdobi-2018-2022)
