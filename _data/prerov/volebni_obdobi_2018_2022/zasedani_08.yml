@@ -1,0 +1,1938 @@
+schuze:
+  datum_a_cas: 2019-10-14 14:00:00
+
+ucastnici:
+- zkratka: doto
+  jmeno: Dostal Tomáš, Ing.
+  strana: KDU-ČSL
+
+- zkratka: doma  
+  jmeno: Dostál Marek
+  strana: ODS   
+
+- zkratka: gapa  
+  jmeno: Galeta Pavel, Ing.
+  strana: SPD
+
+- zkratka: gala
+  jmeno: Galová Lada, Mgr.
+  strana: ANO  
+
+- zkratka: hoja
+  jmeno: Horký Jan, Ing. arch.
+  strana: SpP,Piráti   
+
+- zkratka: hrfr  
+  jmeno: Hrabina František Jan, Ing.
+  strana: PROSP.  
+
+- zkratka: hyja  
+  jmeno: Hýzl Jaroslav, Mgr.
+  strana: ODS  
+
+- zkratka: kaji  
+  jmeno: Kafka Jiří, Ing.
+  strana: SPD
+
+- zkratka: koto  
+  jmeno: Kocourek Tomáš, MUDr. Mgr. MBA
+  strana: ODS
+
+- zkratka: kope  
+  jmeno: Kouba Petr, Mgr.
+  strana: ODS
+
+- zkratka: kopa  
+  jmeno: Košutek Pavel
+  strana: ANO
+
+- zkratka: laji  
+  jmeno: Lapáček Jiří, PhDr.
+  strana: KDU-ČSL
+
+- zkratka: livl  
+  jmeno: Lichnovský Vladimír, JUDr.
+  strana: ANO
+
+- zkratka: maha  
+  jmeno: Mazochová Hana, Ing.
+  strana: ANO
+
+- zkratka: mepe  
+  jmeno: Měřínský Petr, Ing.
+  strana: ANO
+
+- zkratka: naja  
+  jmeno: Navařík Jakub, Mgr. Ph.D.
+  strana: ODS
+
+- zkratka: nato  
+  jmeno: Navrátil Tomáš, Ing.
+  strana: ANO
+
+- zkratka: nejo  
+  jmeno: Nekl Josef, RSDr.
+  strana: KSČM
+
+- zkratka: nehe  
+  jmeno: Netopilová Helena, Mgr.
+  strana: SpP,Piráti
+
+- zkratka: onpa  
+  jmeno: Ondrůj Pavel
+  strana: SpP,Piráti
+
+- zkratka: povl  
+  jmeno: Pospíšil Vladimír
+  strana: SPD
+
+- zkratka: pora  
+  jmeno: Pospíšilík Radek
+  strana: PROSP.
+
+- zkratka: pran  
+  jmeno: Prachař Antonín, Ing.
+  strana: STAN
+
+- zkratka: sczd  
+  jmeno: Schenk Zdeněk, Mgr. Ph.D.
+  strana: SpP,Piráti
+
+- zkratka: slli  
+  jmeno: Slováček Libor, MUDr.
+  strana: PROSP.
+
+- zkratka: stmi  
+  jmeno: Stoupa Michal, Mgr.
+  strana:  ANO
+
+- zkratka: stbo  
+  jmeno: Střelec Bohumír, Ing.
+  strana: ANO
+
+- zkratka: symi
+  jmeno: Symerský Michal, Ing.
+  strana: KSČM
+
+- zkratka: tolu
+  jmeno: Tomaníková Ludmila
+  strana: Nezařazená
+
+- zkratka: trma  
+  jmeno: Trhlík Martin, MUDr.
+  strana: STAN
+
+- zkratka: tupe  
+  jmeno: Turanec Petr
+  strana: ANO
+
+- zkratka: vave  
+  jmeno: Václavíčková Věra, Mgr. Bc.
+  strana: PROSP.
+
+- zkratka: vrpe  
+  jmeno: Vrána Petr, Ing.
+  strana: ANO
+
+- zkratka: vrve  
+  jmeno: Vránová Věra, Mgr. Ph.D.
+  strana: KSČM
+
+- zkratka: zami  
+  jmeno: Zácha Michal, DiS.
+  strana: ODS
+
+hlasovani:
+  - cislo: 1
+    nazev: Zahájení, schválení programu 8. zasedání, volba ověřovatelů zápisu    
+    datum_a_cas: 2019-10-14 14:00:00 14:06:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Nepřítomen
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Nehlasoval
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Nepřítomen
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 2
+    nazev: "Nabytí akcí společnosti Servisní společnost odpady Olomouckého kraje, a. s. (Procedurální hlasovaní: Udělení slova)"    
+    datum_a_cas: 2019-10-14 14:36:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Nehlasoval
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Nehlasoval
+    nato: Pro
+    nejo: Nepřítomen
+    nehe: Nehlasoval
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Nepřítomen
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 3
+    nazev: "Nabytí akcí společnosti Servisní společnost odpady Olomouckého kraje, a. s. (Protinávrh p. Slováčka)"    
+    datum_a_cas: 2019-10-14 15:51:00
+    doto: Zdržel se
+    doma: Pro
+    gapa: Zdržel se
+    gala: Proti
+    hoja: Nehlasoval
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Zdržel se
+    koto: Zdržel se
+    kope: Zdržel se
+    kopa: Proti
+    laji: Zdržel se
+    livl: Zdržel se
+    maha: Zdržel se
+    mepe: Proti
+    naja: Proti
+    nato: Zdržel se
+    nejo: Zdržel se
+    nehe: Zdržel se
+    onpa: Zdržel se
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Nehlasoval
+    slli: Pro
+    stmi: Proti
+    stbo: Proti
+    symi: Nehlasoval
+    tolu: Pro
+    trma: Zdržel se
+    tupe: Zdržel se
+    vave: Pro
+    vrpe: Zdržel se
+    vrve: Zdržel se
+    zami: Zdržel se
+
+  - cislo: 4
+    nazev: "Nabytí akcí společnosti Servisní společnost odpady Olomouckého kraje, a. s. (Doplnění usnesení p. Pospíšilíka)"
+    datum_a_cas: 2019-10-14 15:51:00
+    doto: Zdržel se
+    doma: Proti
+    gapa: Zdržel se
+    gala: Proti
+    hoja: Nehlasoval
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Proti
+    kope: Proti
+    kopa: Proti
+    laji: Zdržel se
+    livl: Zdržel se
+    maha: Zdržel se
+    mepe: Proti
+    naja: Proti
+    nato: Zdržel se
+    nejo: Zdržel se
+    nehe: Zdržel se
+    onpa: Zdržel se
+    povl: Pro
+    pora: Nehlasoval
+    pran: Omluven
+    sczd: Nehlasoval
+    slli: Pro
+    stmi: Proti
+    stbo: Proti
+    symi: Nehlasoval
+    tolu: Pro
+    trma: Zdržel se
+    tupe: Zdržel se
+    vave: Pro
+    vrpe: Zdržel se
+    vrve: Zdržel se
+    zami: Proti
+
+  - cislo: 5
+    nazev: "Nabytí akcí společnosti Servisní společnost odpady Olomouckého kraje, a. s. (Doplnění usnesení p. Pospíšilíka)"    
+    datum_a_cas: 2019-10-14 15:52:00
+    doto: Zdržel se
+    doma: Proti
+    gapa: Zdržel se
+    gala: Proti
+    hoja: Zdržel se
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Proti
+    kope: Proti
+    kopa: Proti
+    laji: Zdržel se
+    livl: Zdržel se
+    maha: Zdržel se
+    mepe: Proti
+    naja: Proti
+    nato: Zdržel se
+    nejo: Zdržel se
+    nehe: Zdržel se
+    onpa: Zdržel se
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Nehlasoval
+    slli: Pro
+    stmi: Proti
+    stbo: Proti
+    symi: Nehlasoval
+    tolu: Pro
+    trma: Pro
+    tupe: Zdržel se
+    vave: Pro
+    vrpe: Zdržel se
+    vrve: Zdržel se
+    zami: Proti
+
+  - cislo: 6
+    nazev: "Nabytí akcí společnosti Servisní společnost odpady Olomouckého kraje, a. s. (Doplnění usnesení p. Pospíšilíka)"
+    datum_a_cas: 2019-10-14 15:53:00
+    doto: Zdržel se
+    doma: Proti
+    gapa: Pro
+    gala: Proti
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Proti
+    kope: Zdržel se
+    kopa: Proti
+    laji: Zdržel se
+    livl: Zdržel se
+    maha: Zdržel se
+    mepe: Proti
+    naja: Proti
+    nato: Zdržel se
+    nejo: Pro
+    nehe: Zdržel se
+    onpa: Zdržel se
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Nehlasoval
+    slli: Pro
+    stmi: Proti
+    stbo: Proti
+    symi: Zdržel se
+    tolu: Pro
+    trma: Zdržel se
+    tupe: Zdržel se
+    vave: Pro
+    vrpe: Zdržel se
+    vrve: Pro
+    zami: Zdržel se
+
+  - cislo: 7
+    nazev: "Nabytí akcí společnosti Servisní společnost odpady Olomouckého kraje, a. s. (Protinávrh p. Mazochové)"
+    datum_a_cas: 2019-10-14 15:54:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Zdržel se
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Zdržel se
+    onpa: Zdržel se
+    povl: Zdržel se
+    pora: Nehlasoval
+    pran: Omluven
+    sczd: Nehlasoval
+    slli: Nehlasoval
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Zdržel se
+    tupe: Pro
+    vave: Nehlasoval
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 8
+    nazev: "Nabytí akcí společnosti Servisní společnost odpady Olomouckého kraje, a. s."
+    datum_a_cas: 2019-10-14 15:55:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Zdržel se
+    hrfr: Proti
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Proti
+    onpa: Zdržel se
+    povl: Zdržel se
+    pora: Proti
+    pran: Omluven
+    sczd: Nehlasoval
+    slli: Proti
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Zdržel se
+    trma: Zdržel se
+    tupe: Pro
+    vave: Proti
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 9
+    nazev: "Návrh na personální změnu - Kontrolní výbor"
+    datum_a_cas: 2019-10-14 15:56:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Zdržel se
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Nehlasoval
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 10
+    nazev: "Informace o činnosti Rady města Přerova od 7. zasedání Zastupitelstva, informace z výborů (Návrh p. Záchy)"
+    datum_a_cas: 2019-10-14 16:40:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 11
+    nazev: "Informace o činnosti Rady města Přerova od 7. zasedání Zastupitelstva, informace z výborů"
+    datum_a_cas: 2019-10-14 16:40:00 
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 12
+    nazev: "4.1.1_Záměr statutárního města Přerova - úplatný převod nemovité věci z majetku statutárního města Přerova - pozemku p.č. 391 v k.ú. Újezdec u Přerova."
+    datum_a_cas: 2019-10-14 16:43:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Nehlasoval
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 13
+    nazev: "Záměr statutárního města Přerova – úplatný převod nemovitých věcí z majetku statutárníměsta Přerova – části pozemku p.č. 5307/283 a části pozemku p.č. 5307/3, v k.ú. Přerov."
+    datum_a_cas: 2019-10-14 16:45:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Nehlasoval
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 14
+    nazev: "Záměr statutárního města Přerova – úplatný převod nemovitých věcí z majetku statutárního města Přerova – pozemků p.č. 894 a p.č. 887 v k.ú. Henčlov"
+    datum_a_cas: 2019-10-14 16:47:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 15
+    nazev: "Záměr statutárního města Přerova - úplatný převod nemovité věci z majetku statutárního města Přerova – části pozemku p.č. 63 v k.ú. Žeravice"
+    datum_a_cas: 2019-10-14 16:50:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Nehlasoval
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 16
+    nazev: "Nepeněžitý vklad nemovitých věcí a movitých věcí v majetku statutárního města Přerova do základního kapitálu společnosti Vodovody a kanalizace Přerov a.s."
+    datum_a_cas: 2019-10-14 16:58:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 17
+    nazev: "statutárního města Přerova – úplatný převod nemovitých věcí z vlastnictví statutárního města Přerova – pozemku p.č. 2152/2, jehož součástí je stavba občanského vybavení č.p. 387 (Čechova 43), příslušná k části obce Přerov I-Město, a částí p…"
+    datum_a_cas: 2019-10-14 17:05:00    
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Nehlasoval
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 18
+    nazev: "Úplatný převod nemovitých věcí z vlastnictví statutárního města Přerov – pozemků p.č. 983, p.č. 985, p.č. 986, p.č. 987, p.č. 990/3, p.č. 991, p.č. 992 a budovy k bydlení č.p. 1259, příslušné k části obce Přerov I-Město, na pozemku p.č. 987 vše v…"
+    datum_a_cas: 2019-10-14 17:09:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 19
+    nazev: "Bezúplatný převod nemovitých věcí do majetku statutárního města Přerova - pozemků p.č. 312/1, p.č. 312/9, p.č. 312/12, p.č. 312/15, p.č. 312/16, p.č. 312/17, p.č. 312/18, p.č. 312/19 a p.č. 312/20 v k.ú. Újezdec u Přerova"
+    datum_a_cas: 2019-10-14 17:11:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 20
+    nazev: "Směna nemovitých věcí v majetku statutárního města Přerova - část pozemku p.č. 34 a pozemku p.č. 250/1 za pozemek p.č. 1027/1 vše v k.ú. Újezdec u Přerova"
+    datum_a_cas: 2019-10-14 17:18:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Proti
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 21
+    nazev: "Žádost o sepsání splátkového kalendáře"
+    datum_a_cas: 2019-10-14 17:21:00
+    doto: Pro
+    doma: Pro
+    gapa: Proti
+    gala: Pro
+    hoja: Pro
+    hrfr: Proti
+    hyja: Omluven
+    kaji: Proti
+    koto: Proti
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Proti
+    pora: Proti
+    pran: Omluven
+    sczd: Pro
+    slli: Proti
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Zdržel se
+    trma: Pro
+    tupe: Nehlasoval
+    vave: Proti
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 22
+    nazev: "Odpis pohledávky a její převod na podrozvahový účet"
+    datum_a_cas: 2019-10-14 17:32:00
+    doto: Pro
+    doma: Pro
+    gapa: Proti
+    gala: Pro
+    hoja: Pro
+    hrfr: Proti
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Zdržel se
+    pora: Proti
+    pran: Omluven
+    sczd: Pro
+    slli: Nehlasoval
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Proti
+    trma: Pro
+    tupe: Pro
+    vave: Proti
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 23
+    nazev: "Požadavky místní části Dluhonice v souvislosti s výstavbou komunikace D1 0136 Říkovice - Přerov"
+    datum_a_cas: 2019-10-14 17:37:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Nehlasoval
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 24
+    nazev: "Rozpočtové opatření č. 14 a 15"
+    datum_a_cas: 2019-10-14 17:58:00
+    doto: Pro
+    doma: Nehlasoval
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 25
+    nazev: "Smlouva o úvěru - fixace úrokové sazby"
+    datum_a_cas: 2019-10-14 18:00:00
+    doto: Pro
+    doma: Nehlasoval
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Zdržel se
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 26
+    nazev: "Obecně závazná vyhláška č.../2019 o evidenci označených psů a jejich chovatelů"
+    datum_a_cas: 2019-10-14 18:03:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Nehlasoval
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Nehlasoval
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 27
+    nazev: "Žádost o poskytnutí individuální dotace pro PiTV - StarMedia s. r. o. (Přerovská internetová televize)"
+    datum_a_cas: 2019-10-14 18:06:00
+    doto: Pro
+    doma: Pro
+    gapa: Zdržel se
+    gala: Pro
+    hoja: Zdržel se
+    hrfr: Proti
+    hyja: Omluven
+    kaji: Zdržel se
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Zdržel se
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Zdržel se
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Zdržel se
+    tupe: Pro
+    vave: Zdržel se
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 28
+    nazev: "Dotace pro Sdružení hasičů Čech, Moravy a Slezska - Sbor dobrovolných hasičů Veselíčko - dovybavení zásahového vozu o 10 ks hadic D"
+    datum_a_cas: 2019-10-14 18:08:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 29
+    nazev: "Memorandum prodloužení Baťova kanálu do Olomouckého kraje"
+    datum_a_cas: 2019-10-14 18:13:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Proti
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Proti
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Zdržel se
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 30
+    nazev: "Smlouva o spolupráci s obcemi s rozšířenou působností k projektu Nástroje Územně analytické podklady"
+    datum_a_cas: 2019-10-14 18:15:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 31
+    nazev: "Dohoda akcionářů o společné strategii"
+    datum_a_cas: 2019-10-14 18:18:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 32
+    nazev: "Schválení dodatku č. 1 smlouvy o centralizovaném zadání veřejné zakázky na stavební práce „Silnice I/55 Mimoúrovňové křížení s tratí ČD, Přerov-Předmostí“"
+    datum_a_cas: 2019-10-14 18:20:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Nehlasoval
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 33
+    nazev: "Vyhlášení dotačního programu na podporu vrcholového a výkonnostního sportu dospělých pro rok 2020"
+    datum_a_cas: 2019-10-14 18:36:00
+    doto: Pro
+    doma: Pro
+    gapa: Proti
+    gala: Pro
+    hoja: Proti
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Zdržel se
+    koto: Pro
+    kope: Pro
+    kopa: Zdržel se
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Zdržel se
+    onpa: Zdržel se
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 34
+    nazev: "Zřízení výdejny stravy v objektu Základní školy Přerov, Boženy Němcové 16"
+    datum_a_cas: 2019-10-14 18:44:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Zdržel se
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Proti
+    pran: Omluven
+    sczd: Pro
+    slli: Zdržel se
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Zdržel se
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 35
+    nazev: "Předání pozemků a dokončené investiční akce k hospodaření Základní škole Přerov, Želatovská 8"
+    datum_a_cas: 2019-10-14 18:48:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 36
+    nazev: "Dotační programy statutárního města Přerova pro rok 2020. (Protinávrh p. Horkého)"
+    datum_a_cas: 2019-10-14 18:57:00
+    doto: Zdržel se
+    doma: Zdržel se
+    gapa: Pro
+    gala: Zdržel se
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Zdržel se
+    kope: Zdržel se
+    kopa: Zdržel se
+    laji: Zdržel se
+    livl: Zdržel se
+    maha: Proti
+    mepe: Zdržel se
+    naja: Zdržel se
+    nato: Zdržel se
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Zdržel se
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Zdržel se
+    stbo: Zdržel se
+    symi: Pro
+    tolu: Pro
+    trma: Proti
+    tupe: Zdržel se
+    vave: Pro
+    vrpe: Zdržel se
+    vrve: Pro
+    zami: Zdržel se
+
+  - cislo: 37
+    nazev: "Dotační programy statutárního města Přerova pro rok 2020. (Návrh p. Střelce - hlasovat po jednotlivých bodech)"
+    datum_a_cas: 2019-10-14 18:57:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Proti
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Zdržel se
+    nehe: Zdržel se
+    onpa: Pro
+    povl: Pro
+    pora: Zdržel se
+    pran: Omluven
+    sczd: Zdržel se
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Zdržel se
+    tolu: Pro
+    trma: Proti
+    tupe: Pro
+    vave: Zdržel se
+    vrpe: Pro
+    vrve: Zdržel se
+    zami: Pro
+
+  - cislo: 38
+    nazev: "Dotační programy statutárního města Přerova pro rok 2020. (1)"
+    datum_a_cas: 2019-10-14 18:58:00    
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Zdržel se
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Zdržel se
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 39
+    nazev: "Dotační programy statutárního města Přerova pro rok 2020. (2)"
+    datum_a_cas: 2019-10-14 18:59:00
+    doto: Pro
+    doma: Pro
+    gapa: Zdržel se
+    gala: Pro
+    hoja: Pro
+    hrfr: Zdržel se
+    hyja: Omluven
+    kaji: Zdržel se
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Zdržel se
+    pora: Zdržel se
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 40
+    nazev: "Dotační programy statutárního města Přerova pro rok 2020. (3)"
+    datum_a_cas: 2019-10-14 18:59:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Zdržel se
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Proti
+    mepe: Pro
+    naja: Pro
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Zdržel se
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Zdržel se
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 41
+    nazev: "Obecně závazná vyhláška č. .../2019, kterou se mění Obecně závazná vyhláška č. 2/2017, k zabezpečení místních záležitostí veřejného pořádku v souvislosti s hlukem, ve znění Obecně závazné vyhlášky č. 1/2018, Obecně závazné vyhlášky č. 2/2018, Obec…"
+    datum_a_cas: 2019-10-14 19:00:00
+    doto: Nehlasoval
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Nepřítomen
+    nato: Pro
+    nejo: Pro
+    nehe: Pro
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Zdržel se
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 42
+    nazev: "Projednání návrhů, námětů a připomínek občanů a zastupitelů ve věcech, které nebyly předmětem programu (Návrh p. Slováčka)"
+    datum_a_cas: 2019-10-14 20:02:00
+    doto: Zdržel se
+    doma: Pro
+    gapa: Pro
+    gala: Proti
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Proti
+    kopa: Zdržel se
+    laji: Zdržel se
+    livl: Zdržel se
+    maha: Pro
+    mepe: Proti
+    naja: Nepřítomen
+    nato: Pro
+    nejo: Pro
+    nehe: Nepřítomen
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Zdržel se
+    stbo: Zdržel se
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Zdržel se
+    vave: Pro
+    vrpe: Zdržel se
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 43
+    nazev: "Projednání návrhů, námětů a připomínek občanů a zastupitelů ve věcech, které nebyly předmětem programu (Návrh p. Schenka; Bod 1)"
+    datum_a_cas: 2019-10-14 20:03:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Nepřítomen
+    nato: Pro
+    nejo: Pro
+    nehe: Nepřítomen
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Zdržel se
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
+
+  - cislo: 44
+    nazev: "Projednání návrhů, námětů a připomínek občanů a zastupitelů ve věcech, které nebyly předmětem programu (Návrh p. Schenka; Bod 2)"
+    datum_a_cas: 2019-10-14 20:03:00
+    doto: Pro
+    doma: Proti
+    gapa: Pro
+    gala: Zdržel se
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Zdržel se
+    kopa: Zdržel se
+    laji: Pro
+    livl: Zdržel se
+    maha: Zdržel se
+    mepe: Zdržel se
+    naja: Nepřítomen
+    nato: Zdržel se
+    nejo: Pro
+    nehe: Nepřítomen
+    onpa: Pro
+    povl: Pro
+    pora: Zdržel se
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Zdržel se
+    stbo: Zdržel se
+    symi: Zdržel se
+    tolu: Pro
+    trma: Pro
+    tupe: Zdržel se
+    vave: Zdržel se
+    vrpe: Zdržel se
+    vrve: Pro
+    zami: Zdržel se
+
+  - cislo: 45
+    nazev: "Projednání návrhů, námětů a připomínek občanů a zastupitelů ve věcech, které nebyly předmětem programu (Návrh p. Schenka; Bod 3)"
+    datum_a_cas: 2019-10-14 20:04:00
+    doto: Pro
+    doma: Pro
+    gapa: Proti
+    gala: Zdržel se
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Zdržel se
+    kopa: Zdržel se
+    laji: Pro
+    livl: Zdržel se
+    maha: Pro
+    mepe: Zdržel se
+    naja: Nepřítomen
+    nato: Zdržel se
+    nejo: Pro
+    nehe: Nepřítomen
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Zdržel se
+    stbo: Proti
+    symi: Zdržel se
+    tolu: Pro
+    trma: Pro
+    tupe: Zdržel se
+    vave: Pro
+    vrpe: Zdržel se
+    vrve: Pro
+    zami: Zdržel se
+
+  - cislo: 46
+    nazev: "Projednání návrhů, námětů a připomínek občanů a zastupitelů ve věcech, které nebyly předmětem programu"
+    datum_a_cas: 2019-10-14 20:04:00
+    doto: Pro
+    doma: Pro
+    gapa: Pro
+    gala: Pro
+    hoja: Pro
+    hrfr: Pro
+    hyja: Omluven
+    kaji: Pro
+    koto: Pro
+    kope: Pro
+    kopa: Pro
+    laji: Pro
+    livl: Pro
+    maha: Pro
+    mepe: Pro
+    naja: Nepřítomen
+    nato: Pro
+    nejo: Pro
+    nehe: Nepřítomen
+    onpa: Pro
+    povl: Pro
+    pora: Pro
+    pran: Omluven
+    sczd: Pro
+    slli: Pro
+    stmi: Pro
+    stbo: Pro
+    symi: Pro
+    tolu: Pro
+    trma: Pro
+    tupe: Pro
+    vave: Pro
+    vrpe: Pro
+    vrve: Pro
+    zami: Pro
