@@ -1,10 +1,10 @@
 ---
 layout: default  
 title: Přerov
-permalink: /prerov
+permalink: /prerov/
 ---
 [Úvod](../) > Přerov
 
 # Přerov
 
-[Volební období 2018-2022](../../volebni-obdobi-2018-2022)
+[Volební období 2018-2022](../../volebni-obdobi-2018-2022/)
