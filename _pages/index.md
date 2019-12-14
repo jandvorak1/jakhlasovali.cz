@@ -7,4 +7,4 @@ permalink: /
 
 # Jak hlasovali
 
-[Přerov](./prerov)
+[Přerov](prerov)

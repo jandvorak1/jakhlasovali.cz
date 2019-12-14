@@ -7,4 +7,4 @@ permalink: /prerov/volebni-obdobi-2018-2022
 
 # Volební období 2018-2022
 
-[8. zasedání](./zasedani-08)
+[8. zasedání](zasedani-08)
