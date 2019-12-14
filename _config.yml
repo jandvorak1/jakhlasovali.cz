@@ -35,6 +35,9 @@ sass:
 
 include: ["_pages"]
 
+administrator:
+  email: honza.dvorak@pirati.cz # Email to send build log
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
