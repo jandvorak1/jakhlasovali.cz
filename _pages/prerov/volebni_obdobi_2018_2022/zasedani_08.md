@@ -4,7 +4,7 @@ title: Přerov - Volební období 2018-2022 - 8. zasedání
 permalink: /prerov/volebni-obdobi-2018-2022/zasedani-08/  
 ---
 {% assign hlasovani = site.data.prerov.volebni_obdobi_2018_2022.zasedani_08.hlasovani | sort: 'cislo' %}
-{% assign ucastnici = site.data.prerov.volebni_obdobi_2018_2022.zasedani_08.ucastnici | sort: 'jmeno' %}
+{% assign ucastnici = site.data.prerov.volebni_obdobi_2018_2022.zasedani_08.ucastnici | sort: 'strana' %}
 
 [Úvod](../../../) > [Přerov](../../) > [Volební období 2018-2022](../) > 8. zasedání
 
