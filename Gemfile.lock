@@ -1,10 +1,3 @@
-GIT
-  remote: git://github.com/sverrirs/jekyll-paginate-v2.git
-  revision: f8664cf68b59de823b88d4e6b1b985457f2c13af
-  specs:
-    jekyll-paginate-v2 (2.1.0)
-      jekyll (>= 3.0, < 5.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -54,6 +47,8 @@ GEM
       colorize
       commander
       jekyll
+    jekyll-paginate-v2 (3.0.0)
+      jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (2.0.1)
       sassc (> 2.0.1, < 3.0)
     jekyll-seo-tag (2.6.1)
@@ -95,12 +90,12 @@ DEPENDENCIES
   jekyll-coffeescript (~> 2.0.0)
   jekyll-feed (~> 0.12.1)
   jekyll-ftp (~> 0.2.0)
-  jekyll-paginate-v2!
+  jekyll-paginate-v2 (~> 3.0.0)
   jekyll-seo-tag (~> 2.6.1)
   therubyracer (~> 0.12.3)
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.6.5p114
 
 BUNDLED WITH
-   1.16.5
+   1.17.3

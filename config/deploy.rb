@@ -7,7 +7,7 @@ set :deploy_via, :remote_cache
 set :deploy_to, '/home/webjhl10'
 set :use_sudo, false
 set :rvm_type, :user
-set :rvm_ruby_version, '2.5.1'
+set :rvm_ruby_version, '2.6.5'
 set :tmp_dir, "/home/webjhl10/.tmp"
 
 # Default branch is :master

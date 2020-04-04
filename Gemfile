@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 # Use Ruby version by RVM
-ruby '2.5.1'
+ruby '2.6.5'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -20,7 +20,7 @@ gem "therubyracer", "~> 0.12.3", platforms: :ruby
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12.1"  
-  gem "jekyll-paginate-v2", github: "sverrirs/jekyll-paginate-v2"
+  gem "jekyll-paginate-v2", "~> 3.0.0"
   gem "jekyll-ftp", "~> 0.2.0"
   gem "jekyll-coffeescript", "~> 2.0.0"
   gem "jekyll-seo-tag", "~> 2.6.1"
